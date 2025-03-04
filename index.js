@@ -98,4 +98,3 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
 
-//https://marketplace.zoom.us/authorize?client_id=6SD9j_31RIm1UZaUKBKgQ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fapi%2Fcallback&_zmp_login_state=DmueIYG3TNygwex3JD4i1A
